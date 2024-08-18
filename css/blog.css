@@ -1,0 +1,323 @@
+
+.nav_bar{
+    background-color: #0D263B;
+    height: 80px;
+    padding: 14px 408px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left{
+display: flex;    
+align-items: center;
+    gap: 10px;
+}
+
+.left h1{
+    color: #fff;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    gap: 64px;
+}
+
+.center a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
+
+.right{
+    font-size: 14px;
+    color: #fff;
+    line-height: 22px;
+}
+
+.right button{
+    padding: 22px 60px;
+    background: transparent;
+    border: none;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    color: #ffff;
+    transition: 0.5s;
+}
+
+.right button:hover{
+    cursor: pointer;
+    background: #fff;
+    color: #000;
+    border: 2px solid transparent;
+    transition: 0.5s;
+}
+
+.ortasi{
+    padding: 10px 0;
+    padding-left: 400px;
+}
+
+.top{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.buttom{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    gap: 17px;
+    flex-direction: column;
+}
+.lopi{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.right h1{
+    color: #000;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.right h1{
+    padding-top: 24px;
+    color: #0D263B;
+}
+.right h3{
+    color: #696969;
+}
+
+.kopli{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.kopli img{
+    width: 20px;
+    height: 20px;
+}
+.kopli h2{
+    color: #696969;
+    font-size: 20px;
+}
+
+.kopi{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.kopi h2{
+    color: #696969;
+    font-size: 20px;
+}
+.kopi img{
+    width: 20px;
+    height: 20px;
+}
+
+.left_pol{
+    display: flex;
+    align-items: center;
+    gap: 20px
+    ;
+}
+.kiji{
+    display: flex;
+    align-items: center;
+    gap: 250px;
+}
+.jiki{
+    padding-top: 34.7px;
+}
+
+.huy{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.huy h4{
+    color: #696969;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+.loropiano{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.left_{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.left_ h1{
+    color: #0D263B;
+    font-size: 24px;
+}
+.left_ h3{
+    color: #696969;
+    font-size: 12px;
+    font-weight: 400;
+}
+.left__ h3{
+    color: #696969;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 100px;
+}
+.jiki{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+
+.asror_center{
+    width: 880px;
+    padding-top: 16px;
+    color: #696969;
+}
+
+.asror_center_2{
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding-top: 16px;
+}
+
+.asror_center_2 h4{
+    color: #696969;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.kilop{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+hr{
+    width: 880px;
+    margin: 48px 0;
+}
+
+
+.asror_center5333 h2{
+    font-size: 14px;
+    color: #0D263B;
+}
+
+.asror_center5333 span{
+    color: #696969;
+    font-weight: 400;
+}
+
+.asror_center5333{
+    display: flex;
+    align-items: center;
+    gap: 181px;
+    padding: 24px 0;
+}
+
+.asror_bottom{
+    display: flex;
+    align-items: center;
+    gap: 181px;
+    padding-bottom: 24px;
+}
+
+.asror_bottom h2{
+    font-size: 14px;
+    color: #0D263B;
+}
+
+.asror_bottom span{
+    color: #696969;
+    font-weight: 400;
+}
+iframe{
+    width: 880px;
+    height: 416px;
+}
+
+.mini_center{
+    display: flex;
+    align-items: center;
+    gap: 181px;
+    padding: 24px 0;
+}
+
+.mini_center span{
+    color: #696969;
+    font-weight: 400;
+}
+
+.mini_center h2{
+    font-size: 14px;
+    color: #0D263B;
+}
+
+.mini_center_2{
+    display: flex;
+    align-items: center;
+    gap: 181px;
+    padding: 24px 0;
+}
+
+.mini_center_2 span{
+    color: #696969;
+    font-weight: 400;
+}
+
+.mini_center_2 h2{
+    font-size: 14px;
+    color: #0D263B;
+}
+
+.mini_botom{
+    display: flex;
+    align-items: center;
+    gap: 181px;
+    padding: 24px 0;
+}
+
+.mini_botom span{
+    color: #696969;
+    font-weight: 400;
+}
+
+.mini_botom h2{
+    font-size: 14px;
+    color: #0D263B;
+}
+
+.mini_botom_2{
+    display: flex;
+    align-items: center;
+    gap: 181px;
+    padding: 24px 0;
+}
+
+.mini_botom_2 span{
+    color: #696969;
+    font-weight: 400;
+}
+
+.mini_botom_2 h2{
+    font-size: 14px;
+    color: #0D263B;
+}
