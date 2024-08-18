@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .hayot__content {
       display: flex;
       align-items: center;
@@ -138,3 +139,108 @@
       margin-top: 100px;
       margin-left: 460px;
 }
+=======
+.abdugoffor {
+     margin-top: 20px;
+}
+
+.abdugoffor__top {
+     text-align: center;
+}
+
+.abdugoffor__top h1 {
+     color: #0D263B;
+     font-size: 28px;
+     font-weight: 600;
+     line-height: 36px;
+     letter-spacing: -0.02em;
+     text-align: center;
+     padding-bottom: 10px;
+}
+
+.abdugoffor__top p {
+     color: #696969;
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 24px;
+     text-align: center;
+
+}
+
+.abdugoffor__cards {
+     display: flex;
+     gap: 20px;
+}
+
+.abdugoffor__card {
+     width: 380px;
+}
+
+.abdugoffor__card .img85 {
+     padding-left: 300px;
+     padding-bottom: 10pxa;
+}
+
+.abdugoffor__card h2 {
+     color: #0D263B;
+     font-size: 16px;
+     font-weight: 600;
+     line-height: 24px;
+     text-align: left;
+     padding-bottom: 5px;
+}
+
+.abdugoffor__card p {
+     color:  #696969;
+     font-size: 14px;
+     font-weight: 400;
+     line-height: 20px;
+     text-align: left;
+     padding-bottom: 16px;
+}
+
+.icon{
+     display: flex;
+     align-items: center;
+     gap: 30px;
+}
+
+
+ .listing {
+     background-color: #fff;
+     border-radius: 8px;
+     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+     overflow: hidden;
+     max-width: 400px;
+     width: 100%;
+ }
+ 
+ .image img {
+     width: 100%;
+     height: auto;
+ }
+ 
+ .details {
+     padding: 16px;
+ }
+ 
+ .details h1 {
+     margin-top: 0;
+     font-size: 24px;
+     color: #333;
+ }
+ 
+ .details p {
+     margin: 4px 0;
+     color: #777;
+ }
+ 
+ .details ul {
+     list-style: none;
+     padding: 0;
+ }
+ 
+ .details ul li {
+     display: inline;
+ }
+>>>>>>> 8977a89dcbbae6996d87deab981ae74656768a82
