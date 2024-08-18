@@ -1,0 +1,140 @@
+.hayot__content {
+      display: flex;
+      align-items: center;
+      align-content: end;
+      justify-content: space-between;
+}
+
+.hayot__list {
+      display: flex;
+      gap: 64px;
+}
+
+.hayot__list a {
+      color: #FFFFFF;
+      text-decoration: none;
+
+}
+
+.btn {
+      width: 120px;
+      height: 44px;
+      background-color: transparent;
+      color: #FFFFFF;
+      border: 2px solid white;
+}
+
+.hayot__nav {
+      width: 100%;
+      height: 100px;
+      background-color: #0D263B;
+}
+
+.hayotbek__left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      width: 527px;
+      height: 44px;
+      border: 2px solid #E6E9EC;
+}
+
+.hayotbek__middle {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+}
+
+.cvc {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      width: 131px;
+      height: 44px;
+      border: 2px solid #E6E9EC;
+      padding-left: 10px;
+
+
+}
+
+.hayotbek__right {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      width: 180px;
+      height: 44px;
+      background-color: #0061DF;
+      border: 2px solid blue;
+      padding-left: 40px;
+      color: #FFFFFF;
+}
+
+.hayot__server {
+      width: 100%;
+      height: 100vh;
+      background-image:linear-gradient(hsla(0, 0%, 0%, 0.622),hsla(0, 0%, 0%, 0.262)), url(../images/unsplash_2gDwlIim3Uw.png)  ;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+}
+
+.hayotbek__content {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+}
+
+.h1 {
+      font-size: 48px;
+      color: #fff;
+      text-align: center;
+      padding-top: 130px;
+
+}
+
+.h2 {
+      font-size: 24px;
+      color: grey;
+      text-align: center;
+      padding-top: 10px;
+}
+.hammasi{
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      padding-top: 50px;
+      padding-left: 345px;
+      color: #fff;
+   
+}
+.dvd h1{
+    font-weight: 100;
+}
+.bed{
+      padding-left: 20px;
+}
+.bath{
+      padding-left: 30px;
+}
+.car{
+      padding-left: 30px;
+}
+.rease{
+      padding-left: 30px;
+}
+.h5{
+      color: #fff;
+      font-size: 50px;
+      padding-top: 200px;
+      padding-left: 430px;
+}
+.btn__server{
+      width: 180px;
+      height: 44px;
+      background-color: transparent;
+      color: #fff;
+      border: 2px solid #fff;
+      margin-top: 100px;
+      margin-left: 460px;
+}
